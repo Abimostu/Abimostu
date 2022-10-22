@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abimostu
-- 👀 I’m interested in getting better
+- 👀 I’m interested in Java and everything about web
 - 🌱 I’m currently learning Python and Go🦾
 
 <!---
